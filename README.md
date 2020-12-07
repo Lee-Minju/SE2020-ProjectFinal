@@ -1,6 +1,6 @@
 Invaders
 =
-[Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders) clone, written in Java.
+[Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders) clone, written in Java...
 
 ###Screenshots
 ![](http://i.minus.com/ijt8HhaA8laZq.png)
